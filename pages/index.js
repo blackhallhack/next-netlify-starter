@@ -6,14 +6,14 @@ export default function Home() {
   return (
     <div className="container">
       <Head>
-        <title>Next.js Starter!</title>
+        <title>핵메타 배그핵 서든핵 옵치핵 최저가 판매</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
       <main>
-        <Header title="Welcome to my app!" />
+        <Header title="시장점유율 1위 핵메타" />
         <p className="description">
-          Get started by editing <code>pages/index.js</code>
+          사이트 바로가기<code>핵메타.com</code>
         </p>
       </main>
 
